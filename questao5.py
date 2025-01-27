@@ -6,7 +6,7 @@ def inverter_string(frase: str):
         
     return nova_frase
 
-
-frase_invertida = inverter_string("moana busca casa de prego")
+frase = "moana busca casa de prego"
+frase_invertida = inverter_string(frase)
 
 print(frase_invertida)
